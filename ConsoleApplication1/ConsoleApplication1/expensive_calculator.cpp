@@ -1,7 +1,10 @@
-// ConsoleApplication1.cpp : Defines the entry point for the console application.
-//
+// Expensive Calculator
+// Demonstrates built-in arithmetic operators
+
 
 #include "stdafx.h"
+#include <iostream>
+
 
 
 int main()
